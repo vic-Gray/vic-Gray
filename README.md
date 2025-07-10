@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi there, I’m Victory Gray
 
-<!--
-**vic-Gray/vic-Gray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A backend developer from Nigeria solving real problems through clean APIs and scalable systems.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** TypeScript, JavaScript, HTML, CSS
+- **Frameworks:** NestJS, Express.js, React Native
+- **Databases:** MongoDB, PostgreSQL, Supabase
+- **Tools:** Git, GitHub, Nodemailer, Cloudinary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- [Engagement API](https://github.com/vic-Gray/engagement-api) – Web3-ready content platform backend with rewards
+- [Event API](https://github.com/vic-Gray/event-api) – Event booking system with authentication & email
+
+### 🤝 Open to
+- Backend Internships  
+- intermediate Developer Roles (Remote/Flexible)  
+- Tech-for-Good Collaborations  
+
+### 📫 Contact
+📧 victory@codeflex.dev  
+🌍 [LinkedIn](#) • [Twitter](#) • [GitHub](https://github.com/vic-Gray)
+
+---
+
+_“Building solutions for Africa, one API at a time.”_
