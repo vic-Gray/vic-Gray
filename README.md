@@ -18,7 +18,7 @@
 - Tech-for-Good Collaborations  
 
 ### 📫 Contact
-📧 victory@codeflex.dev  
+📧 victorygray59@gmail.com 
 🌍 [LinkedIn](#) • [Twitter](#) • [GitHub](https://github.com/vic-Gray)
 
 ---
