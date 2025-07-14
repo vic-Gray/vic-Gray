@@ -18,8 +18,8 @@
 - Tech-for-Good Collaborations  
 
 ### 📫 Contact
-📧 victorygray59@gmail.com 
-🌍 [LinkedIn](#) • [Twitter](#) • [GitHub](https://github.com/vic-Gray)
+📧 victorygray59@gmail.com  
+🌍 [Portfolio](https://portfolio-1dq.pages.dev/) • [LinkedIn](#) • [Twitter](#) • [GitHub](https://github.com/vic-Gray)
 
 ---
 
